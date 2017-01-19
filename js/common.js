@@ -106,6 +106,14 @@ $(function() {
                     arrows: false,
                     centerPadding: '50px'
                 }
+            },
+            {
+                breakpoint: 320,
+                settings: {
+                    slidesToShow: 1,
+                    arrows: false,
+                    centerPadding: '50px'
+                }
             }
         ]
     });
