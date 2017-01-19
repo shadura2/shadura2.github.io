@@ -95,6 +95,7 @@ $(function() {
                 breakpoint: 480,
                 settings: {
                     slidesToShow: 1,
+                    arrows: false,
                     centerPadding: '50px'
                 }
             },
@@ -102,6 +103,7 @@ $(function() {
                 breakpoint: 360,
                 settings: {
                     slidesToShow: 1,
+                    arrows: false,
                     centerPadding: '50px'
                 }
             }
